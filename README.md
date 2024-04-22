@@ -1,5 +1,4 @@
-
-HACKERS404-Clinic
+# Clinic Website
 
 An online web-based system designed to revolutionize healthcare interactions for clinics, doctors, pharmacists, and patients. This virtual clinic and pharmacy management system streamlines and automates every aspect of the healthcare journey, providing a seamless experience for all stakeholders.
 
